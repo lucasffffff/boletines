@@ -1,0 +1,3 @@
+Lazarillo,X,12.0,70
+El Quijote,Cervantes,22.0,98
+El Principito,Antoine de Saint-Exupéry,10.0,150
